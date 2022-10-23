@@ -2,6 +2,7 @@
    text-align: center;
    font-family:'M PLUS Rounded 1c';
    color: aliceblue;
+   font-size: 20px;
    
 }
 
@@ -39,7 +40,7 @@ h6{
 
 
 .letraCss {
-    font-size: 150%;
+    font-size: 150px;
     font-style: italic ;
 }
 
