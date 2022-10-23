@@ -1,0 +1,87 @@
+*{
+   text-align: center;
+   font-family:'M PLUS Rounded 1c';
+   color: aliceblue;
+   
+}
+
+body{
+    background-image: url("./timtim.avif");
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-position-y:80%;
+    height:auto;
+    background-blend-mode: multiply;
+    background: linear-gradient rgba(0, 0, 0, 0.75)  rgba(240, 236, 236, 0.75);
+
+    
+
+}
+
+h1{
+    font-family: 'Lucida Sans';
+    height: 100PX;
+}
+
+.divInline {
+    display: block;
+}
+
+
+
+
+h6{
+    display: inline;
+    height: 200px;
+}
+
+
+.letraCss {
+    font-size: 150%;
+    font-style: italic ;
+}
+
+
+
+.titulos{
+    font-size: 50px;
+
+
+    
+}
+
+h4 {
+
+     text-align: left;
+
+
+}
+
+
+.Tamaño {
+    width: 800px;
+    box-shadow: 500px;
+    left: 500px;
+}
+
+.Contenedor{
+    text-align: center;
+}
+
+h6{
+    width: auto;
+    height: auto;
+}
+
+
+
+
+h2{
+    font-family:Verdana;
+    height: auto;
+    color: azure;
+}
+  
+
