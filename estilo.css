@@ -1,6 +1,6 @@
 *{
    text-align: center;
-   font-family:'M PLUS Rounded 1c';
+   font-family:Arial, Helvetica, sans-serif;
    color: aliceblue;
    font-size: 20px;
    
@@ -10,21 +10,21 @@ body{
     background-image: url("./timtim.avif");
     background-size: cover;
     background-attachment: fixed;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(175, 144, 144);
     background-repeat: no-repeat;
     background-position-y:80%;
     height:auto;
-    background-blend-mode: multiply;
-    background: linear-gradient rgba(0, 0, 0, 0.75)  rgba(240, 236, 236, 0.75);
-
+    background-blend-mode: color;
+    background-blend-mode: darken; 
     
 
 }
 
 h1{
-    font-family: 'Lucida Sans';
-    height: 100PX;
+    font-size: 100px;
 }
+
+
 
 .divInline {
     display: block;
@@ -47,42 +47,58 @@ h6{
 
 
 .titulos{
-    font-size: 50px;
+    font-size: 50px; 
 
 
-    
 }
 
 h4 {
 
      text-align: left;
-
-
 }
 
-
 .Tamaño {
-    width: 800px;
-    box-shadow: 500px;
-    left: 500px;
+    width: 500px;
+    height: 325px;
+    font-size: 200px;
 }
 
 .Contenedor{
     text-align: center;
 }
 
-h6{
-    width: auto;
-    height: auto;
-}
-
-
-
 
 h2{
     font-family:Verdana;
     height: auto;
     color: azure;
+    font-size: 50px;
 }
   
+#Foto {
+    border-image: 100px;
+    width: 500px;
+    height: 500px;
+    left: 100PX;
+}
 
+a{
+    color: rgb(162, 95, 95);
+}
+
+
+#Subtitulo{   
+    
+    
+    color:rgba(213, 227, 237, 0.482);
+    width: 200px;
+    height: 200PX;
+    font-size: 35PX;
+    text-align:left;
+    display: inline;
+
+
+}
+    
+ 
+    
